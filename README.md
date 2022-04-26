@@ -6,7 +6,7 @@
 - 👀 I’m interested in *Web Development & Competitive Programing*
 - 🌱 I’m currently learning *JavaScript*
 - 👯 Looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me sankhadeep57@gmail.com
+- 📫 How to reach me sankhadeeproy2021@gmail.com
 - ⚡ Fun fact **I love to play guitar and cooking.**
 
 ## 🚀 Languages and Tools:
