@@ -7,9 +7,10 @@
 - 🌱 I’m currently learning *JavaScript*
 - 👯 Looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me sankhadeeproy2021@gmail.com
-- ⚡ Fun fact **I love to play guitar and cooking.**
+- ⚡ Fun fact **I love to cook and play guitar.**
 
 ## 🚀 Languages and Tools: 
+<div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="32" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="32" /></a>  
@@ -25,45 +26,27 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="32" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="32" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="32" /></a>  
-  
-
-<br/>  
+</div>
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbstractThinker&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbstractThinker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbstractThinker&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractThinker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</td><td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbstractThinker&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractThinker&hide_border=true&layout=compact" align="left" style="width: 100%" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbstractThinker&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</td></tr></table>  
+### 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sankhadeep.roy.102k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_abstractthinker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankha-deep-roy) 
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AbstractThinker&&style=flat-square)  
-  
-
-<br/>  
+---
+[![](https://visitcount.itsvg.in/api?id=AbstractThinker&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
-<br />
 
-<!-- <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-</p> -->
-
-<!---
-AbstractThinker/AbstractThinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
